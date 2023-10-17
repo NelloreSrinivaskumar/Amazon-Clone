@@ -141,7 +141,7 @@ img:hover{
 
 /*background  */
 .bg{
-    background-image: url('img/bg.jpg');
+    background-image: url(bg.jpg');
     background-size: cover;
     width:100%;
     height:350px;
