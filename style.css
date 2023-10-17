@@ -80,6 +80,9 @@ img{
 }
 
 
+/* sign in */
+.signin select{
+    margin-left: 4px;
 /* country */
 .country{
     display: flex;
@@ -100,6 +103,7 @@ img{
 .cart p{
     font-size: 13px;
     display: flex;
+    margin-top: 8px 0 4px 0;
 }
 
 /* border */
@@ -218,7 +222,7 @@ footer{
 .footer1{
     width:100%;
     height: 35px;
-    background-color:#232f3e;
+    background-color:#007185;
     display: flex;
     justify-content: center;
     align-items: center;
