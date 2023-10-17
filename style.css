@@ -83,6 +83,7 @@ img{
 /* sign in */
 .signin select{
     margin-left: 4px;
+}   
 /* country */
 .country{
     display: flex;
